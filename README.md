@@ -19,3 +19,4 @@ to inject an offhost, that it probably wasn't going to last. So after a while I 
 
 I tried giving them a chance, but since I was the one who did 99% of the work for this project, I've decided to release it publicly. 
 
+If you want the full story you can message me on my Discord at: Heaventh#8411
