@@ -9,6 +9,8 @@ It doesn't have any exploit.
 
 I've left it in an unfinished state, I might come back to it some day but probably not. 
 
+Most of the code isn't very good. If you want to improve or release a working or better version, go for it. 
+
 
 -- About Ryan (The person I was original working with) --
 
